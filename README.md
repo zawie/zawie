@@ -1,4 +1,4 @@
-![Hello World Gif](helloWorld.gif)
+![Hello World Gif](f2px36fy.gif)
 ## Who I am:
 I am a computer science student at Rice University.
 
