@@ -1,4 +1,4 @@
-![Hello World Gif](zawie/f2px36fy.gif)
+![Hello World Gif](helloWorld.gif)
 ## Who I am:
 I am a computer science student at Rice University.
 
