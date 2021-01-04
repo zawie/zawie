@@ -1,4 +1,3 @@
-![Graph NN Demo](TrimmedDemoGraphnn480p.gif)
 ### Who I am:
 I am a computer science student at Rice University.
 
