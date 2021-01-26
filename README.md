@@ -5,6 +5,4 @@ Ever since I started making video games as a kid, I have been addicited to compu
 #### What am I currently doing?
 My current main projects are co-leading the development of match for RiceApps and continuing a deep learning phylogenetic project with the Rice Computer Science Department.
 #### What am I doing next?
-I will be working as a research assisstant/engineer for Court Labaratory at MD Anderson working on artificial intelligence in medical physics.
-
-
+I will be working as a research assisstant/engineer for Court Labaratory at MD Anderson working on applying artificial intelligence to radiation oncology.
