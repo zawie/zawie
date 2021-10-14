@@ -2,4 +2,7 @@
 - Studying computer science and mathematics at Rice University.
 - Building a resume sharing site (https://uresu.me)
 - Chairing @rice-apps
+
+#### What am I doing next doing?
+- Research
 - Interning at Amazon
