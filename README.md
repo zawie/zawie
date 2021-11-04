@@ -4,6 +4,6 @@
 - Chairing Rice Apps
 - TAing an Algorithms Course
 
-#### What am I doing next doing?
+#### What am I doing next?
 - Research
 - Interning at Amazon
