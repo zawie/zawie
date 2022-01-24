@@ -3,7 +3,4 @@
 - Building a resume sharing site (https://uresu.me)
 - Chairing Rice Apps
 - TAing an Algorithms Course
-
-#### What am I doing next?
 - Research
-- Interning at Amazon
