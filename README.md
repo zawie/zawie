@@ -4,3 +4,6 @@
 - Chairing Rice Apps
 - TAing an Algorithms Course
 - Research
+
+
+ <img src="https://profile-counter.glitch.me/zawie/count.svg" />
