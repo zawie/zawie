@@ -1,5 +1,6 @@
 #### What am I currently doing?
 - Studying computer science and mathematics at Rice University.
+- Incoming Software Development Engineer at Amazon
 - Chairing Rice Apps
 - TAing an Algorithms Course
 
