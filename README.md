@@ -1,8 +1,6 @@
 #### What am I currently doing?
-- Studying computer science and mathematics at Rice University.
-- Incoming Software Development Engineer at Amazon
-- Chairing Rice Apps
-- TAing an Algorithms Course
+- Studied Computer Science and Mathematics at Rice University.
+- Software Development Engineer at Amazon
 
 ### Website
 Checkout my website [zawie.io](https://zawie.io)!
