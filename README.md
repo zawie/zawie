@@ -1,4 +1,4 @@
-#### What am I currently doing?
+### What am I currently doing?
 - Studied Computer Science and Mathematics at Rice University.
 - Software Development Engineer at Amazon
 
