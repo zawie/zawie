@@ -1,6 +1,6 @@
 ### Professional Summary
 - Studied Mathematics and Computer Science at Rice University
-- Software Development Engineer at Amazon Web Services
+- Currently a Software Development Engineer at Amazon Web Services
 
 ### Website
 Checkout my website [zawie.io](https://zawie.io)!
