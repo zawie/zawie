@@ -1,3 +1,5 @@
+![](https://github.com/zawie/zawie/blob/master/f2px36fy.gif)
+
 ### Professional Summary
 - Started making games for fun in 2013
 - Studied Mathematics and Computer Science at Rice University
