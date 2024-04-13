@@ -2,7 +2,7 @@
 
 ### Professional Summary
 - Started making games for fun in 2013
-- Studied Mathematics and Computer Science at Rice University
+- Earned a Bachelors in Mathematics and Computer Science at Rice University
 - Currently a Software Development Engineer at Amazon Web Services
 
 ### Website
