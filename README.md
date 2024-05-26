@@ -1,4 +1,4 @@
-![](https://github.com/zawie/zawie/blob/master/f2px36fy.gif)
+![](https://github.com/zawie/zawie/blob/master/f2px36fy.gif](https://github-readme-stats.vercel.app/api/top-langs/?username=zawie&layout=compact&theme=gruvbox&langs_count=10&hide=html,css,makefile,CMake)
 
 ### Professional Summary
 - Started making games for fun in 2013
