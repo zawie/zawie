@@ -1,4 +1,3 @@
- <img src="https://profile-counter.glitch.me/zawie/count.svg" />
 
 ### Professional Summary
 - Started making games for fun in 2013
